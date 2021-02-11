@@ -10,3 +10,4 @@
 ## To see:
 ### Anime:
    - Ore wo Suki na no wa Omae Dake ka yo
+   - No me deja hacer cambios directos
